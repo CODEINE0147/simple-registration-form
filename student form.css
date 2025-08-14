@@ -1,0 +1,45 @@
+body {
+    background-color: cyan;
+    font-family: Arial, sans-serif;
+    padding-top: 30px;
+}
+
+/* Outer container */
+.form-container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* Title box styling */
+.form-title {
+    border: 3px solid black;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 22px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white; /* makes it stand out */
+}
+
+h2 {
+    margin: 0;
+}
+
+/* Label styling */
+label {
+    display: inline-block;
+    width: 180px;
+    font-weight: bold;
+}
+
+/* Input and select styling */
+input, select, button {
+    padding: 5px;
+}
+
+button {
+    margin-right: 5px;
+    padding: 8px 15px;
+}
